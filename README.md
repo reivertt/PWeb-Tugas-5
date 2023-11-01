@@ -8,3 +8,5 @@ Kalkulator dan List sederhana menggunakan vue.js
 - [Vercel] List (https://pweb-tugas-5-phi.vercel.app/list)
 - [GitHub] Calculator (https://reivertt.github.io/PWeb-Tugas-5/calculator)
 - [GitHub] List (https://reivertt.github.io/PWeb-Tugas-5/list)
+- [Firebase] Calculator (https://pweb-tugas-5-nabil.web.app/calculator)
+- [Firebase] List (https://pweb-tugas-5-nabil.web.app/list)
